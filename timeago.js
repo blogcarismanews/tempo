@@ -57,7 +57,7 @@
         hour: "1 jam",
         hours: "%d jam",
         day: "1 hari",
-        days: "%d hari",
+        days: "%d dias",
         month: "1 bulan",
         months: "%d bulan",
         year: "1 tahun",
